@@ -7,6 +7,7 @@ The project concludes with the successful automated resolution of the Movie Tick
 
 https://github.com/user-attachments/assets/35051e8d-746d-4fe3-8933-c8313458114f
 
+[NIP_Project_Submission_Filled.pdf](https://github.com/user-attachments/files/31619769/NIP_Project_Submission_Filled.pdf)
 
 **📩 Final System Output Example:**
 
