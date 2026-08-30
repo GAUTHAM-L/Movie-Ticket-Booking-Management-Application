@@ -2,6 +2,12 @@
 
 The project concludes with the successful automated resolution of the Movie Ticket Request lifecycle, marked by the generation and dispatch of an automated correspondence notification (US-008) 📧. Upon case completion, the system executes a predefined Correspondence rule to map dynamic properties — including Case ID, Movie Name, Show Date & Time, Number of Tickets, Seat Numbers, and Total Cost — directly into a structured email format. This automated dispatch eliminates manual tracking errors ✅ and provides immediate visibility to the customer 👀.
 
+
+
+
+https://github.com/user-attachments/assets/35051e8d-746d-4fe3-8933-c8313458114f
+
+
 **📩 Final System Output Example:**
 
 * **Subject:** 🎟️ Movie Ticket Booking Confirmed - `[Case ID]`
